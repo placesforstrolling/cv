@@ -43,7 +43,7 @@ Frontend-разработчик: Сентябрь 2016 – январь 2021
 
 ### Образование
 
-В 2018 году закончил IT школу Proweb по напрвлению frontend-разработчик
+В 2018 году закончил IT школу Proweb по напрвлению frontend-разработчик 
 [Сертификат об окончании](https://drive.google.com/file/d/1WJmjpZE-NDcUxXdH4Jrvoy5K6C_efqa3/view?usp=sharing)
 
 Иностранные языки
