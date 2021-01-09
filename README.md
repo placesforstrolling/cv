@@ -13,6 +13,8 @@ Frontend-разработчик: Сентябрь 2016 – январь 2021
 
 [Emdersal.uz](https://emdersal.uz/)
 
+[Ajax.uz](https://tester1117.000webhostapp.com)
+
 // Достижения
 ### Знания и навыки
 ### Профессиональные навыки:
