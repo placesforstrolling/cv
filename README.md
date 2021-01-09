@@ -7,6 +7,8 @@ Frontend-разработчик: Сентябрь 2016 – январь 2021
 [Justflowers.uz](https://www.justflowers.uz/)
 Добавил возможность оплаты товаров с помощью иностранных валют, с использованием api от enot.io. Также интегрировал необходимые модули оплаты в WooCommerce
 
+### Созданные проекты:
+
 [Profitdigital.ru](https://monachist-misleads.000webhostapp.com)
 
 [Emdersal.uz](https://emdersal.uz/)
