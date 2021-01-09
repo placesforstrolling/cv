@@ -9,6 +9,8 @@ Frontend-разработчик: Сентябрь 2016 – январь 2021
 
 [Profitdigital.ru](https://monachist-misleads.000webhostapp.com)
 
+[Emdersal.uz](https://emdersal.uz/)
+
 // Достижения
 ### Знания и навыки
 ### Профессиональные навыки:
