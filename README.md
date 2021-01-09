@@ -22,6 +22,8 @@ Frontend-разработчик: Сентябрь 2016 – январь 2021
 
 [Coffee.uz](https://pizzauzuz.000webhostapp.com)
 
+[Beicecream.com](https://asfalto01.000webhostapp.com)
+
 // Достижения
 ### Знания и навыки
 ### Профессиональные навыки:
