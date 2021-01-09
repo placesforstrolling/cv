@@ -17,6 +17,8 @@ Frontend-разработчик: Сентябрь 2016 – январь 2021
 
 [Ajax.uz](https://tester1117.000webhostapp.com)
 
+[Mogo.com](https://mogorer.000webhostapp.com)
+
 // Достижения
 ### Знания и навыки
 ### Профессиональные навыки:
