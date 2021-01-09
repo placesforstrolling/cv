@@ -19,7 +19,7 @@ Frontend-разработчик: Сентябрь 2016 – январь 2021
 
 [Mogo.com](https://mogorer.000webhostapp.com)
 
-[Cofee.uz](https://pizzauzuz.000webhostapp.com)
+[Coffee.uz](https://pizzauzuz.000webhostapp.com)
 
 // Достижения
 ### Знания и навыки
