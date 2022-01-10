@@ -15,7 +15,7 @@ Frontend-разработчик: Сентябрь 2016 – январь 2021
 
 [Emdersal.uz](https://emdersal.uz/)
 
-[Coffee.uz](https://pizzauzuz.000webhostapp.com)
+[tbcenter.uz](https://pizzauzuz.000webhostapp.com)
 
 [Beicecream.com](https://asfalto01.000webhostapp.com)
 
