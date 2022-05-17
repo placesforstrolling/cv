@@ -4,10 +4,12 @@
 Опыт работы 5 лет  
 Frontend-разработчик: Сентябрь 2016 – май 2022
 
-[Justravel.uz](https://www.justravel.uz/)  
-Добавил возможность оплаты товаров с помощью иностранных валют, с использованием api от enot.io. Также интегрировал необходимые модули оплаты в WooCommerce
+
 
 ### Созданные проекты:
+
+[Justravel.uz](https://www.justravel.uz/)  
+Добавил возможность оплаты товаров с помощью иностранных валют, с использованием api от enot.io. Также интегрировал необходимые модули оплаты в WooCommerce
 
 [Profitdigital.ru](https://monachist-misleads.000webhostapp.com)
 
