@@ -1,35 +1,36 @@
  ### CV
  ### Mustafa Anvarov
 
-Опыт работы 4 года  
-Frontend-разработчик: Сентябрь 2016 – январь 2022
+Опыт работы 5 лет  
+Frontend-разработчик: Сентябрь 2016 – май 2022
 
 [Justravel.uz](https://www.justravel.uz/)  
 Добавил возможность оплаты товаров с помощью иностранных валют, с использованием api от enot.io. Также интегрировал необходимые модули оплаты в WooCommerce
 
 ### Созданные проекты:
 
-[Mustafaanvarov.uz](https://mustafaanvarov.uz)
-
 [Profitdigital.ru](https://monachist-misleads.000webhostapp.com)
 
 [Emdersal.uz](https://emdersal.uz/)
 
-[tbcenter.uz](https://pizzauzuz.000webhostapp.com)
+[tbcenter.uz](https://tbcenter.uz/)
 
 [Beicecream.com](https://asfalto01.000webhostapp.com)
+
+[Pokemon App](https://main--inspiring-khapse-742c2a.netlify.app/)
 
 ### Знания и навыки
 ### Профессиональные навыки:
 * опыт работы с HTML5, CSS3, JS;
 * знание JavaScript/JQuery;
+* знание ReactJs, Redux, Redux Toolkit;
 * опыт адаптивной верстки;
 * опыт создания HTML-страницы сайта на основе дизайн-макетов;
 * опыт вёрстки сайтов и шаблонов для CMS;
 * навыки привязки к пользовательскому интерфейсу скриптов, которые обеспечивают визуализацию и анимацию страниц сайта;
 * знание CSS-фреймворков, а также CSS-препроцессоров(Less, Scss);
 * знание кросс-браузерной верстки;
-* знания PhotoShop;
+* знания PhotoShop, Figma;
 * поверхностные знания php.
 
 ### Дополнительные сведения:
@@ -40,5 +41,8 @@ Frontend-разработчик: Сентябрь 2016 – январь 2022
 В 2018 году закончил IT школу Proweb по напрвлению frontend-разработчик  
 [Сертификат об окончании](https://drive.google.com/file/d/1WJmjpZE-NDcUxXdH4Jrvoy5K6C_efqa3/view?usp=sharing)
 
+С 2022 начал работать как разработчик веб-приложений, прошел курс от ведущего специалиста в Украине - Ивана Петриченко "Полный курс по JavaScript + React - с нуля до результата"
+Ссылка на сертификат: http://ude.my/UC-c5866f70-245a-4e6d-9e94-0c1862045a89
+
 Иностранные языки  
-Английский язык — разговорный
+Английский язык — b2
