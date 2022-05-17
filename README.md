@@ -19,7 +19,7 @@ Frontend-разработчик: Сентябрь 2016 – май 2022
 
 [Beicecream.com](https://asfalto01.000webhostapp.com)
 
-## React-приложения
+#### React-приложения
 
 [Pokemon App](https://main--inspiring-khapse-742c2a.netlify.app/)
 
