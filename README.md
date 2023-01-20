@@ -25,11 +25,14 @@ Frontend-разработчик: Сентябрь 2016 – май 2022
 
 [Marvel App](https://endearing-chaja-6a6698.netlify.app/)
 
+[Poetry Sphere](https://poetry-sphere.herokuapp.com/)
+
 ### Знания и навыки
 ### Профессиональные навыки:
 * опыт работы с HTML5, CSS3, JS;
 * знание JavaScript/JQuery;
 * знание ReactJs, Redux, Redux Toolkit;
+* знание Next.js, SSR, SSG
 * знание Node.js
 * опыт адаптивной верстки;
 * опыт создания HTML-страницы сайта на основе дизайн-макетов;
